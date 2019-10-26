@@ -1,0 +1,51 @@
+ID,Age,Education,Occupation,Gender,Intense_Work,Smoke_Status,Alcohol_Status,Bicycle_use,Vigorous_sports,Fruit_intake,Vegetable_intake,BMI_check,BP_check,DocAd_BP,DocAd_BC,BP_readn,Cholest_intake,Salt_intake,Exercise_reg,Stress_act,LessPota_intake,LessVitD_intake,Family_hist,Docdiag_Hyp,Docdiag_Diab,Chronic_cond
+1,60-69,Non Formal,Unemployed,Female,Yes,No,No,No,Yes,4-7 days,4-7 days,Yes,1-5 years ago,No,Yes,Normal,Twice daily,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Diabetes
+2,60-69,Secondary,Employed,Female,NA,No,No,NA,No,4-7 days,1-3 days,No,1-5 years ago,No,Yes,Normal,Three times a day,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Diabetes
+3,40-49,Primary,Unemployed,Female,No,No,No,No,No,1-3 days,1-3 days,No,Within past 12 months,Yes,Yes,Normal,Once a day,No,No,NA,No,Yes,Yes,Yes,Yes,Diabetes
+4,60-69,Secondary,Employed,Female,Yes,No,No,Yes,No,Once a week,1-3 days,No,Within past 12 months,Yes,No,Abnormal,Once a day,No,Yes,Yes,No,No,Yes,Yes,Yes,Diabetes
+5,60-69,Non Formal,Employed,Female,No,No,Yes,No,Yes,4-7 days,4-7 days,Yes,Within past 12 months,Yes,Yes,Abnormal,Twice daily,No,No,Yes,No,Cannot at all,Yes,Yes,Yes,Diabetes
+6,60-69,Tertiary,Unemployed,Male,NA,NA,NA,NA,NA,NA,NA,NA,Within past 12 months,Yes,Yes,Normal,NA,No,Yes,No,Not at all,Yes,No,Uncertain,No,NA
+7,30-39,Secondary,Employed,Male,No,No,Yes,No,Yes,1-3 days,4-7 days,No,Within past 12 months,Yes,Yes,Abnormal,Twice daily,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Diabetes
+8,30-39,Secondary,Employed,Male,Yes,No,No,Yes,Yes,4-7 days,4-7 days,No,Within past 12 months,Yes,Yes,Normal,Three times a day,Yes,Yes,Yes,Yes,Yes,Uncertain,No,Yes,Diabetes
+9,30-39,Secondary,Employed,Male,No,No,No,No,Yes,Once a while,4-7 days,No,Not within the past 5 years,No,No,Normal,Three times a day,No,Yes,No,Yes,No,No,No,No,None
+10,70-79,Secondary,Pensioneer,Male,No,No,No,Yes,No,4-7 days,4-7 days,Yes,Not within the past 5 years,No,No,Normal,Twice daily,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Diabetes
+11,40-49,Secondary,Employed,Female,Yes,No,No,Yes,Yes,4-7 days,1-3 days,No,Within past 12 months,Yes,No,Normal,Three times a day,Yes,No,No,Yes,No,Yes,Yes,Yes,Diabetes
+12,40-49,Secondary,Unemployed,Male,Yes,No,No,Yes,No,None,1-3 days,No,Within past 12 months,Yes,Yes,Abnormal,Three times a day,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Diabetes
+13,70-79,Secondary,Unemployed,Male,Yes,No,Yes,No,Yes,None,4-7 days,No,1-5 years ago,Yes,Yes,Normal,Three times a day,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Diabetes
+14,60-69,Tertiary,Unemployed,Male,Yes,No,No,Yes,No,1-3 days,Regularly,No,Not within the past 5 years,No,No,Normal,Once a day,Yes,No,No,Yes,Yes,No,Yes,Yes,Diabetes and Heart disease
+15,70-79,Secondary,Pensioneer,Male,No,No,No,No,No,None,4-7 days,No,1-5 years ago,No,Yes,Normal,Once a day,Yes,No,No,No,No,No,No,Yes,Diabetes and Heart disease
+16,30-39,Primary,Employed,Male,No,No,No,Yes,Yes,1-3 days,4-7 days,Yes,Within past 12 months,Yes,No,Abnormal,Twice daily,Yes,No,Yes,Yes,No,Yes,No,Yes,Diabetes and Heart disease
+17,50-59,Primary,Employed,Male,No,No,No,Yes,Yes,Once a while,4-7 days,No,1-5 years ago,No,Yes,Abnormal,Once a day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Diabetes
+18,30-39,Primary,Unemployed,Female,No,No,No,Yes,No,1-3 days,4-7 days,No,Within past 12 months,No,No,Normal,Three times a day,Yes,Yes,No,No,No,Yes,No,Yes,Diabetes
+19,60-69,Primary,Unemployed,Female,No,No,No,Yes,No,4-7 days,4-7 days,No,Within past 12 months,Yes,Yes,Normal,Twice daily,Yes,No,Yes,No,Yes,Yes,No,Yes,Diabetes
+20,60-69,Secondary,Employed,Female,No,No,No,Yes,No,None,1-3 days,No,Within past 12 months,Yes,No,Normal,Once a day,No,No,Yes,No,Yes,Yes,No,Yes,Diabetes
+21,60-69,Secondary,Employed,Male,Yes,No,Yes,Yes,No,1-3 days,4-7 days,No,Within past 12 months,Yes,Yes,Normal,Twice daily,No,No,No,No,No,Yes,Yes,Yes,Diabetes
+22,40-49,Secondary,Employed,Male,Yes,No,No,No,No,1-3 days,1-3 days,No,Within past 12 months,Yes,Yes,Abnormal,Twice daily,No,No,No,Yes,Yes,Yes,No,Yes,Diabetes
+23,40-49,Secondary,Employed,Female,Yes,No,Yes,Yes,Yes,None,1-3 days,Yes,Within past 12 months,Yes,Yes,Normal,Twice daily,Yes,Yes,Yes,No,No,No,Yes,Yes,Diabetes
+24,60-69,Secondary,Unemployed,Female,No,No,No,No,Yes,None,4-7 days,No,Within past 12 months,Yes,No,Normal,Twice daily,No,No,No,Yes,No,No,Yes,Yes,Diabetes
+25,40-49,Primary,Employed,Female,No,No,No,Yes,No,1-3 days,Once a while,No,Within past 12 months,No,No,Normal,Three times a day,Yes,No,No,No,Yes,Yes,No,Yes,Diabetes
+26,40-49,Primary,Employed,Female,Yes,No,No,Yes,Yes,1-3 days,4-7 days,Yes,Not within the past 5 years,No,No,Abnormal,Once a day,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Diabetes
+27,60-69,Primary,Unemployed,Female,Yes,No,Yes,No,Yes,1-3 days,4-7 days,No,Within past 12 months,Yes,No,Normal,Twice daily,Yes,No,No,No,No,Yes,No,Yes,Diabetes
+28,60-69,Primary,Employed,Female,No,No,No,Yes,No,Once a while,4-7 days,No,1-5 years ago,No,No,NA,Three times a day,Yes,Yes,No,Not at all,Yes,No,No,No,Heart disease
+29,40-49,Primary,Employed,Female,No,No,No,Yes,No,4-7 days,4-7 days,No,1-5 years ago,Yes,Yes,Normal,Twice daily,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Diabetes and Heart disease
+30,40-49,Secondary,Employed,Female,No,No,No,Yes,No,4-7 days,Not at all,No,Within past 12 months,Yes,No,Normal,Twice daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Diabetes and Heart disease
+31,40-49,Secondary,Employed,Female,No,No,No,No,No,1-3 days,4-7 days,No,1-5 years ago,No,No,Normal,Three times a day,Yes,No,Yes,No,Yes,Uncertain,No,Yes,Diabetes and Kidney disease
+32,20-29,Primary,Employed,Female,No,No,No,Yes,No,1-3 days,Once a while,No,1-5 years ago,No,No,Normal,Three times a day,Yes,Yes,No,Yes,Yes,Yes,No,No,None
+33,40-49,Non Formal,Unemployed,Female,No,No,No,NA,Yes,1-3 days,Always,Yes,1-5 years ago,No,Yes,Abnormal,Once a day,Yes,No,Yes,Yes,No,Yes,No,Yes,Diabetes
+34,60-69,Non Formal,Unemployed,Female,No,No,No,No,No,4-7 days,4-7 days,Yes,1-5 years ago,Yes,No,Normal,Twice daily,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Heart disease
+35,40-49,Primary,Employed,Female,Yes,No,No,Yes,Yes,4-7 days,4-7 days,Yes,1-5 years ago,Yes,No,Abnormal,Once a day,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Diabetes and Heart disease
+36,60-69,Non Formal,Unemployed,Female,Yes,No,No,No,Yes,1-3 days,1-3 days,No,Within past 12 months,Yes,Yes,Normal,Three times a day,No,No,Yes,Yes,No,No,Yes,Yes,Diabetes and Heart disease
+37,30-39,Secondary,Unemployed,Female,No,No,No,Yes,No,4-7 days,1-3 days,Yes,Within past 12 months,No,Yes,Normal,Twice daily,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Heart disease
+38,50-59,Primary,Employed,Female,Yes,No,Yes,No,Yes,NA,1-3 days,No,Within past 12 months,Yes,No,Normal,Once a day,No,Yes,No,Yes,Yes,No,Yes,Yes,Diabetes
+39,20-29,Primary,Unemployed,Female,No,No,No,No,No,4-7 days,4-7 days,Yes,1-5 years ago,No,Yes,Normal,Twice daily,No,NA,Yes,Not at all,Yes,Yes,Yes,Yes,Diabetes
+40,70-79,Primary,Unemployed,Female,No,No,No,No,No,None,4-7 days,No,Within past 12 months,Yes,No,Normal,Once a day,Yes,No,No,Yes,No,No,No,Yes,Diabetes
+41,40-49,Non Formal,Employed,Female,No,No,Yes,Yes,Yes,1-3 days,Not at all,No,Not within the past 5 years,No,No,Normal,Three times a day,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Diabetes
+42,60-69,Secondary,Unemployed,Female,Yes,No,No,Yes,Yes,1-3 days,1-3 days,No,Within past 12 months,Yes,Yes,Normal,Once a day,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Diabetes
+43,60-69,Primary,Unemployed,Female,Yes,Yes,No,Yes,Yes,1-3 days,Once a while,No,Not within the past 5 years,Yes,Yes,Normal,Once a day,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Diabetes
+44,40-49,Secondary,Employed,Female,No,No,No,Yes,No,4-7 days,1-3 days,No,Within past 12 months,No,No,Abnormal,Twice daily,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Diabetes
+45,40-49,Primary,Unemployed,Female,Yes,No,No,Yes,Yes,4-7 days,Not at all,No,1-5 years ago,No,No,Normal,Twice daily,No,Yes,Yes,Yes,Yes,No,No,Yes,Diabetes
+46,50-59,Secondary,Employed,Female,No,No,No,No,No,4-7 days,4-7 days,No,Within past 12 months,Yes,Yes,Normal,Twice daily,No,No,No,Yes,Yes,No,Yes,Yes,Diabetes
+47,60-69,Primary,Unemployed,Female,No,No,Yes,Yes,Yes,4-7 days,1-3 days,No,Within past 12 months,Yes,Yes,Abnormal,Twice daily,Yes,Yes,No,No,Yes,No,Yes,Yes,Diabetes
+48,60-69,Secondary,Employed,Male,Yes,No,Yes,Yes,No,1-3 days,4-7 days,No,Within past 12 months,Yes,Yes,Normal,Twice daily,No,No,No,No,No,Yes,Yes,Yes,Diabetes
+49,40-49,Secondary,Employed,Female,No,No,No,No,No,1-3 days,4-7 days,No,1-5 years ago,No,No,Normal,Three times a day,Yes,No,Yes,No,Yes,Uncertain,No,Yes,Diabetes and Kidney disease
+50,40-49,Primary,Unemployed,Female,No,No,No,No,No,1-3 days,1-3 days,No,Within past 12 months,Yes,Yes,Normal,Once a day,No,No,NA,No,Yes,Yes,Yes,Yes,Diabetes
