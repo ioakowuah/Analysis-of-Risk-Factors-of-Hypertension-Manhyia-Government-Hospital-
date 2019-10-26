@@ -1,0 +1,2 @@
+# Analysis-of-Risk-Factors-of-Hypertension-Manhyia-Government-Hospital-
+The objective of the study was to determine the risk factors for hypertension. This study was conducted at Manhyia district hospital in the Manhyia sub metro of Ashanti region. However, the study specific objectives were to determine the modifiable and non-modifiable risk factors among patients at Manhyia District Hospital with the risk factors for hypertension
